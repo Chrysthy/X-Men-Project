@@ -1,4 +1,4 @@
-# X-Men-Project
+# X-Men Project
 
 
 Project using HTML, CSS and JS by [DevemDobro](https://github.com/devemdobro).
@@ -15,3 +15,6 @@ Project using HTML, CSS and JS by [DevemDobro](https://github.com/devemdobro).
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
 
 <br>
+<hr>
+<h2> Support </h2>
+<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
